@@ -1,3 +1,6 @@
+# Local disk cache created by the mirror proxy
+cache/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
